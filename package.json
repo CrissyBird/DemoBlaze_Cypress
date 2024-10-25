@@ -1,0 +1,18 @@
+{
+  "name": "demo_blaze",
+  "version": "1.0.0",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "base url": "https://www.demoblaze.com/",
+  "keywords": [],
+  "viewportHeight": 1080,
+  "viewportWidth": 1920,
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^13.15.0"
+  }
+}
