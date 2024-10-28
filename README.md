@@ -1,2 +1,6 @@
 ﻿# DemoBlaze_Cypress
-# Practice automation code on website https://www.demoblaze.com/ using Cypress
+# This is a place to practice automation code on website https://www.demoblaze.com/ using Cypress. 
+# Practicing: 
+# - Logging in and maintaining login sessions
+# - Entering in order forms
+# - Confirming order and cart information 
