@@ -4,7 +4,7 @@ Feature: Login
 #logging in with correct username and password. 
 
 Background: 
-    Given the user accesses "DemoBlaze" website
+    Given the user accesses the "DemoBlaze" website
     When the user selects "Login" screen
 
 Scenario: 1. User fails login with incorrect username
